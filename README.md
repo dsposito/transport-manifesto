@@ -27,14 +27,14 @@ Exploration is not a choice really; it's imperative."
 ## Modes of Transport
 There's no single panacea mode of transport - many options are needed and all ideas are welcome. Some of the most promising opportunities include:
 
- * Tunnels
+ * [Tunnels](tunnels/)
  * Hyperloop
  * High-Speed Rail
  * Supersonic Flight
  * Space Flight
  * Virtual Reality
 
-## Vehicles of Transport
+## Vehicles for Transport
  * Autonomous Electric Vehicles (EAVs)
  * Supersonic Planes
  * Electric Vertical Take-off and Landing Vehicles (eVTOL)
