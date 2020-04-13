@@ -35,7 +35,7 @@ There's no single panacea mode of transport - many options are needed and all id
  * Virtual Reality
 
 ## Vehicles for Transport
- * Autonomous Electric Vehicles (EAVs)
+ * Autonomous Electric Vehicles (AEVs)
  * Supersonic Planes
  * Electric Vertical Take-off and Landing Vehicles (eVTOL)
  * Low Earth Orbit (LEO) Spacecraft
