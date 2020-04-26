@@ -1,6 +1,0 @@
-release:
-  command:
-    - jupyter nbextension enable --py widgetsnbextension
-    - jupyter nbextension enable --py gmaps
-run:
-  web: voila tunnels/transit-time-calculator/Tunnel\ Transit\ Time\ Calculator\ -\ Demo.ipynb --port=$PORT --no-browser
