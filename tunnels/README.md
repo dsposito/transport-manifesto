@@ -1,5 +1,7 @@
 # A Manifesto to Shrink Our World - Tunnels
 
+[![Tunnel Transit Time Calculator - Demo](https://img.shields.io/badge/Tunnel%20Transit%20Time%20Calculator-Demo-blue?style=for-the-badge&logo=python&logoColor=E5E5E5)](https://tunnel-transit-time-calculator.herokuapp.com)
+
 ## Why tunnels?
 Our cities are 3D - with buildings that are wide, long and many stories tall. Yet, most of today's modes of transit - including roads and highways - are only 2D; stretching far and wide but rarely more than one level vertically. This makes traffic unavoidable when thousands of people go to and from their 3D home and work places - 2D roads don't have the same physical capacity.
 
@@ -23,6 +25,8 @@ History has taught us that most major improvements to transportation come not fr
 The hypothesis is that it is critical for these new cost-effective underground tunnels to be backwards compatible with the millions of miles of roadways and automobile infrastructure already in place. Autonomous Electric Vehicles (AEVs) will be able to seamlessly transition to and from a road or highway to an underground tunnel via a ramp or elevator.
 
 ## How will tunnels enable dramatically faster transportation?
+[![Tunnel Transit Time Calculator - Demo](https://img.shields.io/badge/Tunnel%20Transit%20Time%20Calculator-Demo-blue?style=for-the-badge&logo=python&logoColor=E5E5E5)](https://tunnel-transit-time-calculator.herokuapp.com)
+
 Imagine the ultimate express lane that's 3-5x faster than typical roadways.
 
 This will be possible for a couple of reasons:

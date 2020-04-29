@@ -27,7 +27,7 @@ Exploration is not a choice really; it's imperative."
 ## Modes of Transport
 There's no single panacea mode of transport - many options are needed and all ideas are welcome. Some of the most promising opportunities include:
 
- * [Tunnels](tunnels/)
+ * [Tunnels](tunnels/) ([Transit Time Calculator](https://tunnel-transit-time-calculator.herokuapp.com))
  * Hyperloop
  * High-Speed Rail
  * Supersonic Flight
